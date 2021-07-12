@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[764],{8430:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/he2bsaurus/blog/tags","slug":"greetings","name":"greetings","count":1,"permalink":"/he2bsaurus/blog/tags/greetings"}')}}]);

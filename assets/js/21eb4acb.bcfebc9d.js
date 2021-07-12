@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[183],{6873:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/he2bsaurus/blog/tags","slug":"sdr","name":"sdr","count":1,"permalink":"/he2bsaurus/blog/tags/sdr"}')}}]);
